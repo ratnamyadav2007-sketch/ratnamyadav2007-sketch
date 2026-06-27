@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ratnam Yadav</h1>
 <h3 align="center">I am passionate about learning new skills in the field of data science</h3>
 
+<!-- Snake Game Repo View -->
 
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 - 🌱 I’m currently learning **Javascript**
@@ -16,6 +19,8 @@
 - 📄 Know about my experiences [B.Tech Student](B.Tech Student)
 
 - ⚡ Fun fact **IDid you know that sea otters hold hands when they sleep to keep from drifting apart? They often form groups called "rafts" and will entangle themselves in giant kelp forests, using the long strands like anchors to ensure they stay together while they snooze.**
+
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=ratnamyadav2007-sketch)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
