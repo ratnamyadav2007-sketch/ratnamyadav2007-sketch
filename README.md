@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ratnam Yadav</h1>
 <h3 align="center">I am passionate about learning new skills in the field of data science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnamyadav2007-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="ratnamyadav2007-sketch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratnamyadav2007-sketch" alt="ratnamyadav2007-sketch" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Javascript**
 
